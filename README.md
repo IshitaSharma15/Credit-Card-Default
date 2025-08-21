@@ -1,6 +1,6 @@
-# 📊 Credit Card Default Prediction  
+#  Credit Card Default Prediction  
 
-## 🔍 Overview  
+##  Overview  
 Credit card default prediction is a critical problem in the field of **credit risk management**. Banks and financial institutions face significant losses when customers default on payments. Identifying risky customers in advance allows lenders to design better credit policies and reduce non-performing assets (NPAs).  
 
 In this project, I use the **UCI Credit Card Dataset** to build machine learning models that can **predict the probability of default in the next month**. The dataset contains demographic, financial, and repayment history information for 30,000 clients.  
@@ -8,13 +8,14 @@ In this project, I use the **UCI Credit Card Dataset** to build machine learning
 The workflow includes:  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Scaling  
+- Scaling
+- Feature Engineering
 - Model Training (Logistic Regression, XGBOOST , Random Forest, etc.)  
 - Model Evaluation using Accuracy, Precision, Recall, F1-Score, and ROC-AUC    
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)  
 - **Size:** 30,000 rows × 25 columns  
@@ -31,7 +32,7 @@ The workflow includes:
 
 ---
 
-## ⚙️ Project Workflow  
+## ⚙Project Workflow  
 
 ### 1️⃣ Data Preprocessing  
 - Handle categorical variables (SEX, EDUCATION, MARRIAGE)  
