@@ -47,6 +47,4 @@ Other metrics like **Precision, F1-score, and ROC-AUC** were also compared for b
 - Higher credit limits generally reduce default probability.  
 - Younger clients with inconsistent repayment history have higher default rates.  
 
----
 
-## 📁 Repository Structure
